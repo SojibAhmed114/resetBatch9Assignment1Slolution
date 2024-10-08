@@ -1,1 +1,1 @@
-# resetBatch9Assignment1Slolution
+# resetBatch9Assignment1Solution

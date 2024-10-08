@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Merriweather", serif;
+}
+
+/* first banner section start now  */
+#banner-container{
+    min-height: 600px;
+    max-width: 1320px;
+    margin: 30px auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+    background-image: /*linear-gradient(to top,rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 1)),*/ url('./assets/Bannermage.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 16px;
+}
+.banner-content{
+    text-align: center;
+    height: 600px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-title{
+    font-size: 72px;
+    font-weight: 900;
+}
