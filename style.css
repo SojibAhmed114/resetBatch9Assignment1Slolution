@@ -33,3 +33,8 @@ body{
     font-size: 72px;
     font-weight: 900;
 }
+.second-section-container{
+    width: 802px;
+    height: 750px;
+    margin: 100px auto;
+}
