@@ -38,3 +38,30 @@ body{
     height: 750px;
     margin: 100px auto;
 }
+
+
+/* third section starts here  */
+.midnightContainer{
+    width: 1320px;
+    height: 600px;
+    margin: 100px auto;
+    border: 1px solid ;
+    display: flex;
+}
+
+.rightside-content{
+    width: 50%;
+    height: 100%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
+.leftside-content{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* third section end here  */
